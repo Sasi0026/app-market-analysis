@@ -23,7 +23,7 @@ SwiftFlow is entering a highly competitive productivity market. To maximize user
 
 ---
 
-## Phase 1: Data Engineering Pipeline — `01_data_cleaning.ipynb`
+## Phase 1: Data Engineering Pipeline — [`01_data_cleaning.ipynb`](notebooks/01_data_cleaning.ipynb)
 
 Before analysis could begin, raw market data was processed through a reproducible data pipeline covering four key steps.
 
@@ -34,7 +34,7 @@ Before analysis could begin, raw market data was processed through a reproducibl
 
 ---
 
-## Phase 2: Core Insights & Strategic Visualizations — `02_EDA.ipynb`
+## Phase 2: Core Insights & Strategic Visualizations — [`02_EDA.ipynb`](notebooks/02_EDA.ipynb)
 
 ### 1. Global App Size vs. User Adoption
 
